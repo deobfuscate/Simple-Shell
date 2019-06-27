@@ -1,5 +1,5 @@
 # Simple Shell
-A simple shell written in C. Multiple commands may be separated by ';' or '|', but input and output redirection is not implemented. Basic functionality such as "cd" and "pwd" are provided. Any other valid input will be launched using the fork() system call. Uses the GNU readline library for user input.
+A simple shell written in C. Multiple commands may be separated by ';' or '|', but input and output redirection are not implemented. Basic functionality such as "cd" and "pwd" are provided. Any other valid input will be launched using the fork() system call. Uses the GNU readline library for user input.
 
 # Sample output
 ```
